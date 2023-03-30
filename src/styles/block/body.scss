@@ -1,9 +1,0 @@
-.body {
-  background: $c-black;
-  overflow: scroll;
-  overflow-x: hidden;
-
-  &--disableScroll {
-    overflow: hidden;
-  }
-}
